@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhijit-z
+- 👋 Hi, I’m Abhijit Zarekar
 - 👀 I’m interested in Data/Business Analytics 
 - 🌱 I’m currently learning Business Analytics
 - 💞️ I’m looking to collaborate on Data Analytics
